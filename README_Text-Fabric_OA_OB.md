@@ -88,3 +88,10 @@ Please cite **Text‑Fabric** and the **Old Assyrian TF app** when you publish r
 ## Acknowledgments
 We gratefully acknowledge the TF ecosystem and the OA/OB corpora providers that made this computational exploration possible. This teaching material is intended as an on‑ramp for Assyriologists to engage directly with annotated cuneiform corpora in Python.
 
+## License
+This repository is dedicated to the public domain under
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
+To the extent possible under law, TokenWorks LLC has waived all copyright and
+related or neighboring rights to this work. No rights reserved.
+
